@@ -7,4 +7,5 @@ MySQL
 MySQL WorkBench
 
 Schema- Music Store Database
+
 ![MusicDatabaseSchema](https://github.com/user-attachments/assets/67d1bf65-539c-47a2-a90d-cfff806978dc)
