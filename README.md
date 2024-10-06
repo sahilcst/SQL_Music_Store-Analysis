@@ -8,4 +8,10 @@ In this project we did analyze the music playlist database to examine the datase
 * MySQL WorkBench
 
 
-Schema- Music Store Database![MusicDatabaseSchema](https://github.com/user-attachments/assets/67d1bf65-539c-47a2-a90d-cfff806978dc)
+Schema- Music Store Database
+
+
+
+
+
+![MusicDatabaseSchema](https://github.com/user-attachments/assets/67d1bf65-539c-47a2-a90d-cfff806978dc)
